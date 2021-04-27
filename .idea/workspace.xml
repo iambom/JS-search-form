@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/controllers/MainController.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/controllers/MainController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/views/FormView.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/views/FormView.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +25,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lecture-vue/1-vanilla" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -50,7 +51,8 @@
       <updated>1619184189893</updated>
       <workItem from="1619184191162" duration="874000" />
       <workItem from="1619268857240" duration="2765000" />
-      <workItem from="1619441761398" duration="1664000" />
+      <workItem from="1619441761398" duration="1803000" />
+      <workItem from="1619508535385" duration="8778000" />
     </task>
     <servers />
   </component>
@@ -62,6 +64,10 @@
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
     <state x="2592" y="475" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1619442337423" />
+    <state x="2547" y="457" key="FileChooserDialogImpl" timestamp="1619529650883">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2547" y="457" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1619529650883" />
     <state x="2515" y="314" width="672" height="678" key="search.everywhere.popup" timestamp="1619271091838">
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
